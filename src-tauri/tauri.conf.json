@@ -7,7 +7,7 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": "lll",
+    "productName": "top-tauri-sveltekit",
     "version": "0.1.0"
   },
   "tauri": {
